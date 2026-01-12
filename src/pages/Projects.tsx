@@ -8,10 +8,9 @@ const projects = [
 	{
 		title: 'Quickbite',
 		description: [
-			"Full-Stack E-commerce product scraping site of Amazon with automated monitoring capabilities.",
-			"Implemented cron jobs for scheduled notifications and real-time price tracking.",
-			"Utilized MongoDB for robust data management and efficient data storage.",
-			"Integrated email functionality to send notifications on stock changes or price drops.",
+			"Built a fully responsive food ordering web application using React.js and Tailwind CSS, improving component reusability and code efficiency by 30%.",
+      "Implemented global state management using Redux Toolkit for cart logic and UI updates, reducing code complexity by 35% and improving state accuracy.",
+      "Added features like notifications , category filters , and search functionality , enhancing overall UI interaction.",
 		],
 		image: '/projects_img/food_delivery.png',
 		github: 'https://github.com/Rajbhar0710/QuickBite',
@@ -21,9 +20,9 @@ const projects = [
 	{
 		title: 'Rock Paper Scissors Game',
 		description: [
-			"A modern, voice-enabled virtual assistant built with MERN-Stack that responds to voice commands and performs various tasks like web searches, opening applications, and providing information.",
-			"Implemented JWT-based authentication, bcrypt hashing, and REST APIs for secure user management.",
-			"Used Web Speech API for real-time speech recognition and interaction.",
+			"A responsive and interactive Rock Paper Scissors web game built using vanilla HTML, CSS, and JavaScript with a clean and modern UI.",
+      "Implements core game logic with real-time result calculation, score tracking, and dynamic DOM updates based on user input.",
+      "Includes smooth animations, intuitive button interactions, and mobile-friendly design for an engaging user experience.",
 		],
 		image: '/projects_img/Rock_paper_Scissors.png',
 		github: 'https://github.com/Rajbhar0710/Rock-paper-scissors',
@@ -41,13 +40,13 @@ const projects = [
 		tags: ["Next.js", "Aceternity UI","Tailwind CSS", "ShadCN"]
 	},
 	{
-		title: 'Dropbox',
+		title: 'Tinyurl',
 		description: [
-			"A modern, cloud-based file storage and sharing platform that allows users to store, share files with ease.",
-			"Implemented Firebase and Clerk for storage and secure authenticatiom",
+			"TinyLink is a fast and modern URL Shortener built using Next.js App Router, Neon PostgreSQL, and TailwindCSS. Create short links, track clicks, view statistics, and manage everything from a dashboard.",
+			"🛠 Added custom short codes, link management (delete), and a /healthz endpoint for system monitoring.",
 		],
-		image: '/projects_img/dropbox.png',
-		github: 'https://github.com/Yashshinde43/dropbox',
+		image: '/projects_img/Tiny_url.png',
+		github: 'https://github.com/Rajbhar0710/Tinyurl',
 		live: 'https://dropbox-wine.vercel.app/',
 		tags: ["Next.js", "Firebase", "Clerk", "Tailwind CSS"]
 	},
