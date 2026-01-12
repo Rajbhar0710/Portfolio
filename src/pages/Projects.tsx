@@ -25,10 +25,10 @@ const projects = [
 			"Implemented JWT-based authentication, bcrypt hashing, and REST APIs for secure user management.",
 			"Used Web Speech API for real-time speech recognition and interaction.",
 		],
-		image: '/projects_img/virtualai.png',
-		github: 'https://github.com/Yashshinde43/Virtual-Assistant',
-		live: 'https://ai-virtual-assistant-d4aw.onrender.com',
-		tags: ["MERN-Stack", "Gemini AI", "Tailwind CSS"]
+		image: '/projects_img/Rock_paper_Scissors.png',
+		github: 'https://github.com/Rajbhar0710/Rock-paper-scissors',
+		live: 'https://rock-paper-scissors-eight-flax.vercel.app/',
+		tags: ["HTML", "CSS", "JavaScript"]
 	},
 	{
 		title: 'Music School',
