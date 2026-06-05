@@ -120,7 +120,7 @@ const Home = () => {
 									animate={{ opacity: 1 }}
 									transition={{ delay: 0.8 }}
 								>
-									<div className="text-2xl font-bold text-white mb-1">10+</div>
+									<div className="text-2xl font-bold text-white mb-1">20+</div>
 									<div className="text-sm text-gray-400 font-medium">GitHub Projects</div>
 								</motion.div>
 							</motion.a>
