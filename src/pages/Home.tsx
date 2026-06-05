@@ -68,7 +68,7 @@ const Home = () => {
 				>
 					<div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6">
 						<motion.a
-							href="/files/cv_pdf/Raj_Rajbhar_Fullstack.pdf"
+							href="/files/cv_pdf/Raj_Rajbhar_Resume.pdf"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="group px-8 py-4 bg-white text-black rounded-2xl text-base font-semibold hover:bg-gray-100 transition-all duration-300 flex items-center justify-center gap-3 shadow-lg hover:shadow-xl hover:scale-105"
