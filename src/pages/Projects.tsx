@@ -18,16 +18,15 @@ const projects = [
 		tags: ["React.js", "Tailwind CSS", "Redux",]   
 	},
 	{
-		title: 'Rock Paper Scissors Game',
+		title: 'Social Connect',
 		description: [
-			"A responsive and interactive Rock Paper Scissors web game built using vanilla HTML, CSS, and JavaScript with a clean and modern UI.",
-      "Implements core game logic with real-time result calculation, score tracking, and dynamic DOM updates based on user input.",
-      "Includes smooth animations, intuitive button interactions, and mobile-friendly design for an engaging user experience.",
+			"Developed a full-stack social media web application enabling secure user authentication, profile management, and social interactions like follow/unfollow, posts, likes, and comments with role-based access (user/admin).",
+			"Implemented secure JWT-based user authentication and Supabase Email Authentication, complete with password hashing, session handling and a secure backend.",
 		],
-		image: '/projects_img/Rock_paper_Scissors.png',
-		github: 'https://github.com/Rajbhar0710/Rock-paper-scissors',
-		live: 'https://rock-paper-scissors-eight-flax.vercel.app/',
-		tags: ["HTML", "CSS", "JavaScript"]
+		image: '/projects_img/social_connect.png',
+		github: 'https://github.com/Rajbhar0710/SocialConnect',
+		live: 'https://socialconnect-lime.vercel.app/login',
+		tags: ["Next.js", "TypeScript", "PostgreSQL", "Supabase", "Zustand", "Tailwind CSS", "Shadcn UI"]
 	},
 	{
 		title: 'Music School',
