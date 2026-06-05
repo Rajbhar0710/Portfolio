@@ -100,7 +100,7 @@ const About = () => {
 						<div className="absolute inset-0 bg-gradient-to-r from-white/10 to-transparent rounded-full blur-xl"></div>
 						<div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-[28rem] lg:h-[20rem] mx-auto overflow-hidden rounded-full border border-white/10 bg-white/5 backdrop-blur-sm">
 						<img
-							src="/profile/profilepic.jpg"
+							src="/profile/Profilepic.jpg"
 							alt="Raj Rajbhar"
 							className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
 						/>

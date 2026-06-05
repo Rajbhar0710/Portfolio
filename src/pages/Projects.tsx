@@ -45,7 +45,7 @@ const projects = [
 			"TinyLink is a fast and modern URL Shortener built using Next.js App Router, Neon PostgreSQL, and TailwindCSS. Create short links, track clicks, view statistics, and manage everything from a dashboard.",
 			"🛠 Added custom short codes, link management (delete), and a /healthz endpoint for system monitoring.",
 		],
-		image: '/projects_img/Tiny_url.png',
+		image: '/projects_img/Tiny_url.png', 
 		github: 'https://github.com/Rajbhar0710/Tinyurl',
 		live: 'https://dropbox-wine.vercel.app/',
 		tags: ["Next.js", "Firebase", "Clerk", "Tailwind CSS"]
